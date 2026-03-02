@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/khanasad67/LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/khanasad67/LeetCode/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/khanasad67/LeetCode/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/khanasad67/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0509-fibonacci-number](https://github.com/khanasad67/LeetCode/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -44,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/khanasad67/LeetCode/tree/master/0042-trapping-rain-water) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/khanasad67/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/khanasad67/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
