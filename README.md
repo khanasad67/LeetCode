@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khanasad67/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/khanasad67/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/khanasad67/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/khanasad67/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/khanasad67/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/khanasad67/LeetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/khanasad67/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/khanasad67/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/khanasad67/LeetCode/tree/master/0075-sort-colors) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/khanasad67/LeetCode/tree/master/0011-container-with-most-water) |
 | [0861-score-after-flipping-matrix](https://github.com/khanasad67/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 ## Bit Manipulation
 |  |
