@@ -124,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2248-intersection-of-multiple-arrays](https://github.com/khanasad67/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/khanasad67/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
