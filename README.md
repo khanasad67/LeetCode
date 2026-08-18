@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/khanasad67/LeetCode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/khanasad67/LeetCode/tree/master/0509-fibonacci-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/khanasad67/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1688-count-of-matches-in-tournament](https://github.com/khanasad67/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/khanasad67/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Array
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/khanasad67/LeetCode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/khanasad67/LeetCode/tree/master/0867-transpose-matrix) |
+| [1688-count-of-matches-in-tournament](https://github.com/khanasad67/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 ## Greedy
 |  |
 | ------- |
