@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/khanasad67/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/khanasad67/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/khanasad67/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
+| [2706-buy-two-chocolates](https://github.com/khanasad67/LeetCode/tree/master/2706-buy-two-chocolates) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/khanasad67/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/khanasad67/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2248-intersection-of-multiple-arrays](https://github.com/khanasad67/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
+| [2706-buy-two-chocolates](https://github.com/khanasad67/LeetCode/tree/master/2706-buy-two-chocolates) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/khanasad67/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [1903-largest-odd-number-in-string](https://github.com/khanasad67/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/khanasad67/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2706-buy-two-chocolates](https://github.com/khanasad67/LeetCode/tree/master/2706-buy-two-chocolates) |
 ## Bit Manipulation
 |  |
 | ------- |
