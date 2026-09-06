@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/khanasad67/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/khanasad67/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/khanasad67/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/khanasad67/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/khanasad67/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/khanasad67/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/khanasad67/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/khanasad67/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/khanasad67/LeetCode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/khanasad67/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/khanasad67/LeetCode/tree/master/0389-find-the-difference) |
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/khanasad67/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/khanasad67/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
