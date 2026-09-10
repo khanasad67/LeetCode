@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khanasad67/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/khanasad67/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/khanasad67/LeetCode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/khanasad67/LeetCode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/khanasad67/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/khanasad67/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/khanasad67/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/khanasad67/LeetCode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/khanasad67/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/khanasad67/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/khanasad67/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/khanasad67/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/khanasad67/LeetCode/tree/master/0389-find-the-difference) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/khanasad67/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/khanasad67/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/khanasad67/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/khanasad67/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/khanasad67/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/khanasad67/LeetCode/tree/master/0389-find-the-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khanasad67/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
