@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/khanasad67/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/khanasad67/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/khanasad67/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/khanasad67/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/khanasad67/LeetCode/tree/master/0509-fibonacci-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/khanasad67/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/khanasad67/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/khanasad67/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/khanasad67/LeetCode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/khanasad67/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/khanasad67/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/khanasad67/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/khanasad67/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0861-score-after-flipping-matrix](https://github.com/khanasad67/LeetCode/tree/master/0861-score-after-flipping-matrix) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/khanasad67/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/khanasad67/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/khanasad67/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/khanasad67/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/khanasad67/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/khanasad67/LeetCode/tree/master/0389-find-the-difference) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/khanasad67/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/khanasad67/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/khanasad67/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/khanasad67/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/khanasad67/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/khanasad67/LeetCode/tree/master/0389-find-the-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khanasad67/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/khanasad67/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/khanasad67/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/khanasad67/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/khanasad67/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/khanasad67/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/khanasad67/LeetCode/tree/master/0389-find-the-difference) |
 | [0861-score-after-flipping-matrix](https://github.com/khanasad67/LeetCode/tree/master/0861-score-after-flipping-matrix) |
@@ -153,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/khanasad67/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/khanasad67/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/khanasad67/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
