@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/khanasad67/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1436-destination-city](https://github.com/khanasad67/LeetCode/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khanasad67/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/khanasad67/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/khanasad67/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/khanasad67/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/khanasad67/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/khanasad67/LeetCode/tree/master/0724-find-pivot-index) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/khanasad67/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1480-running-sum-of-1d-array](https://github.com/khanasad67/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Queue
 |  |
 | ------- |
