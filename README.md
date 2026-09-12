@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/khanasad67/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/khanasad67/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2248-intersection-of-multiple-arrays](https://github.com/khanasad67/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/khanasad67/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2706-buy-two-chocolates](https://github.com/khanasad67/LeetCode/tree/master/2706-buy-two-chocolates) |
 ## Hash Table
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/khanasad67/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/khanasad67/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2248-intersection-of-multiple-arrays](https://github.com/khanasad67/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/khanasad67/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2706-buy-two-chocolates](https://github.com/khanasad67/LeetCode/tree/master/2706-buy-two-chocolates) |
 ## Dynamic Programming
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/khanasad67/LeetCode/tree/master/1402-reducing-dishes) |
 | [1903-largest-odd-number-in-string](https://github.com/khanasad67/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/khanasad67/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/khanasad67/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2706-buy-two-chocolates](https://github.com/khanasad67/LeetCode/tree/master/2706-buy-two-chocolates) |
 ## Bit Manipulation
 |  |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/khanasad67/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/khanasad67/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/khanasad67/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/khanasad67/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/khanasad67/LeetCode/tree/master/0724-find-pivot-index) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/khanasad67/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/khanasad67/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/khanasad67/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/khanasad67/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Queue
 |  |
