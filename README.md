@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/khanasad67/LeetCode/tree/master/1496-path-crossing) |
 | [1903-largest-odd-number-in-string](https://github.com/khanasad67/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/khanasad67/LeetCode/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/khanasad67/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Trie
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/khanasad67/LeetCode/tree/master/0724-find-pivot-index) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/khanasad67/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/khanasad67/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/khanasad67/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Queue
 |  |
 | ------- |
