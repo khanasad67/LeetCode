@@ -1,27 +1,54 @@
+// class Solution {
+// public:
+//     vector<int> answerQueries(vector<int>& nums, vector<int>& queries) {
+        
+//         sort(nums.begin(),nums.end());
+
+//         vector<int>ans(queries.size());
+
+//         for(int i=1; i<nums.size(); i++){
+//             nums[i]=nums[i]+nums[i-1];
+//         }
+
+//         for(int j=0; j<queries.size();j++){
+//             int len =0;
+//             for(int i=0; i<nums.size(); i++){
+//                 if(nums[i]>queries[j]){
+//                     break;
+
+//                 }else{
+//                     len++;
+//                 }
+//             }
+//             ans[j]=len;
+//         }
+//         return ans;
+//     }
+// };
 class Solution {
 public:
     vector<int> answerQueries(vector<int>& nums, vector<int>& queries) {
-        
-        sort(nums.begin(),nums.end());
 
-        vector<int>ans(queries.size());
+        sort(nums.begin(), nums.end());
 
-        for(int i=1; i<nums.size(); i++){
-            nums[i]=nums[i]+nums[i-1];
+        vector<int> prefix(nums.size());
+
+        prefix[0] = nums[0];
+
+        for(int i = 1; i < nums.size(); i++) {
+            prefix[i] = prefix[i-1] + nums[i];
         }
 
-        for(int j=0; j<queries.size();j++){
-            int len =0;
-            for(int i=0; i<nums.size(); i++){
-                if(nums[i]>queries[j]){
-                    break;
+        vector<int> ans;
 
-                }else{
-                    len++;
-                }
-            }
-            ans[j]=len;
+        for(int q : queries) {
+
+            int index = upper_bound(prefix.begin(), prefix.end(), q)
+                        - prefix.begin();
+
+            ans.push_back(index);
         }
+
         return ans;
     }
 };
