@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/khanasad67/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/khanasad67/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/khanasad67/LeetCode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/khanasad67/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/khanasad67/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/khanasad67/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/khanasad67/LeetCode/tree/master/0283-move-zeroes) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/khanasad67/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/khanasad67/LeetCode/tree/master/0724-find-pivot-index) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/khanasad67/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/khanasad67/LeetCode/tree/master/1480-running-sum-of-1d-array) |
