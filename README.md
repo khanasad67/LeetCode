@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/khanasad67/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/khanasad67/LeetCode/tree/master/0867-transpose-matrix) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/khanasad67/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/khanasad67/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/khanasad67/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1402-reducing-dishes](https://github.com/khanasad67/LeetCode/tree/master/1402-reducing-dishes) |
 | [1436-destination-city](https://github.com/khanasad67/LeetCode/tree/master/1436-destination-city) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/khanasad67/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/khanasad67/LeetCode/tree/master/0389-find-the-difference) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/khanasad67/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/khanasad67/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1436-destination-city](https://github.com/khanasad67/LeetCode/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/khanasad67/LeetCode/tree/master/1496-path-crossing) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/khanasad67/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
