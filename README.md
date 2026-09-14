@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/khanasad67/LeetCode/tree/master/0509-fibonacci-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/khanasad67/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/khanasad67/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/khanasad67/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/khanasad67/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/khanasad67/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/khanasad67/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/khanasad67/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/khanasad67/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/khanasad67/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/khanasad67/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/khanasad67/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/khanasad67/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/khanasad67/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/khanasad67/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1436-destination-city](https://github.com/khanasad67/LeetCode/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/khanasad67/LeetCode/tree/master/1496-path-crossing) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/khanasad67/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/khanasad67/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/khanasad67/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2248-intersection-of-multiple-arrays](https://github.com/khanasad67/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/khanasad67/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/khanasad67/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/khanasad67/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/khanasad67/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/khanasad67/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2248-intersection-of-multiple-arrays](https://github.com/khanasad67/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/khanasad67/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
