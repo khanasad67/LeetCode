@@ -1,36 +1,29 @@
 class Solution {
 public:
-
-    int reverseNum(int n) {
-        int rev = 0;
-
-        while(n > 0) {
-            int digit = n % 10;
-            rev = rev * 10 + digit;
-            n = n / 10;
+    int rev(int n){
+        int rev=0;
+        while(n>0){
+            rev=rev*10;
+            rev=rev+(n%10);
+            n=n/10;
         }
-
         return rev;
     }
-
     int countNicePairs(vector<int>& nums) {
-
-        unordered_map<int, int> mp;
-
-        long long ans = 0;
-        int mod = 1000000007;
-
-        for(int x : nums) {
-
-            int rev = reverseNum(x);
-
-            int key = x - rev;
-
-            ans = (ans + mp[key]) % mod;
-
-            mp[key]++;
+        int n= nums.size();
+        int count =0;
+        unordered_map<int,int> m;
+        for(int i=0; i<n; i++){
+            nums[i] -= rev(nums[i]);
         }
-
-        return ans;
+        for(int i=0; i<n;i++){
+            if(m.find(nums[i])!=m.end()){
+                count=count%1000000007;
+                count+=m[nums[i]];
+                m[nums[i]]++;
+            }
+            else m[nums[i]]++;
+        }
+        return count%1000000007;
     }
 };
