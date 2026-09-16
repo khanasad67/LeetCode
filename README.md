@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/khanasad67/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/khanasad67/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/khanasad67/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/khanasad67/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/khanasad67/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/khanasad67/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/khanasad67/LeetCode/tree/master/0056-merge-intervals) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khanasad67/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/khanasad67/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/khanasad67/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/khanasad67/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/khanasad67/LeetCode/tree/master/0217-contains-duplicate) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/khanasad67/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/khanasad67/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/khanasad67/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/khanasad67/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/khanasad67/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/khanasad67/LeetCode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/khanasad67/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/khanasad67/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/khanasad67/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/khanasad67/LeetCode/tree/master/0205-isomorphic-strings) |
