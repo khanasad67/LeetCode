@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/khanasad67/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/khanasad67/LeetCode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/khanasad67/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1052-grumpy-bookstore-owner](https://github.com/khanasad67/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/khanasad67/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/khanasad67/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/khanasad67/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -314,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/khanasad67/LeetCode/tree/master/0202-happy-number) |
+## Sliding Window
+|  |
+| ------- |
+| [1052-grumpy-bookstore-owner](https://github.com/khanasad67/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 <!---LeetCode Topics End-->
