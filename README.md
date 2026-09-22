@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/khanasad67/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/khanasad67/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/khanasad67/LeetCode/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/khanasad67/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/khanasad67/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/khanasad67/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/khanasad67/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -176,12 +177,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/khanasad67/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/khanasad67/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/khanasad67/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/khanasad67/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/khanasad67/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/khanasad67/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/khanasad67/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/khanasad67/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
@@ -356,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/khanasad67/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/khanasad67/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/khanasad67/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/khanasad67/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
